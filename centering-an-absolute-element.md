@@ -7,11 +7,11 @@ To center an absolute element within a relative container, you would make use of
     </div>
 ```
 
+## CSS
 ```css
 .relative {
     position: relative;
 }
-
 .absolute {
     position: absolute;
     left: 50%;
